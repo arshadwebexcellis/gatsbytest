@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/aviation-parts/*"
-  to = "https://your-s3-bucket.s3.amazonaws.com/:splat"
+  to = "https://dqiuih24nrx44.cloudfront.net/:splat"
   status = 200
   force = true
